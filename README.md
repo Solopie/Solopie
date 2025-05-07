@@ -1,19 +1,9 @@
 ### Hi there 👋
 
-**I'm Jesse**
+Not much to see here. Most of the content will be related to offensive security and hobby projects.
 
-I primarily do CTF competitions in my spare time. Hopefully I post writeups here. If not, well... feel free to call me lazy :)
+You can find me on [Linkedin](https://www.linkedin.com/in/solopie/) or floating around on relevant discord servers 👀
 
-Languages I code in at the moment are:
-- Python (exploit scripts, web apps)
-- Java (competitive programming)
-- JavaScript/NodeJS (discord bots, web apps, typescript coming soon)
-- ... this is a small list sadge ...
+<!-- ctf{linking_my_linkedin_is_bad_opsec_but_im_a_sucker_for_clout} p.s. no this isn't a real ctf flag -->
 
-I can say I generally know how to read other languages through like PHP, C, C# due to code reviews in CTFs but I can't say I can code in them confidently.
 
-On the journey to learning Go though so hopefully can expand the list soon 🤞
-
-That's it for now! Thanks for dropping by and feel free to connect on LinkedIn: https://www.linkedin.com/in/jesse-nguyen-687859157/
-
-Last Edited: 2/12/2022
